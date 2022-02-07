@@ -8,10 +8,17 @@ programmet operer via at du som bruker gir programmet kommandoer ved bruk av ste
 hva programmet kan gjøre:
 
 utføre matte stykker(grunnlegende)
+
 finne hvor du er nå basert på din IP addrese
+
 snakke med deg
+
 spille stein saks papir
+
 søke utifra kommando på google 
+
 søke utifra kommando på youtube 
+
 åpne diverse apper
+
 ta skjermdump av din skjerm og lagre det på din maskin
